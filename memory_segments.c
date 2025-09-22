@@ -28,5 +28,11 @@ int main() {
 
 
     //this is in the heap segment
-    
+    printf("heap_var_ptr is @ address 0x%08x\n", heap_var_ptr);
+
+    // These are in the stack segment
+    printf("stack_var is @ address 0x%08x\n", &stack_var);
+
+    //call function
+    function();
 }
