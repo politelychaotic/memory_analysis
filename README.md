@@ -17,4 +17,7 @@ Memory Analysis with GDB and C
 <img width="658" height="234" alt="image" src="https://github.com/user-attachments/assets/77c20205-5174-41e2-9226-db8f87d7aa64" /><br><br>
 
 
-+ This allows us to get some insights in how this system manages heap memory, and when it decides to re-allocate a freed space of heap memory
++ This allows us to get some insights in how this system manages heap memory, and when it decides to re-allocate a freed space of heap memory<br>
+
+## Showing memory segments using variables defined with different methods
+<img width="487" height="139" alt="Screenshot 2025-09-22 092000" src="https://github.com/user-attachments/assets/37c89270-bbc2-4e00-8ded-d34e15546cff" />
